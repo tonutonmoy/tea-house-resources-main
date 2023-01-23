@@ -1,0 +1,43 @@
+.fa-star{
+  font-size: 30px;
+  color: #FFC850
+}
+
+.bd{
+  width: 20px;
+  height: 20px;
+}
+
+.fa-chevron-right{
+  color: #FFFFFF;
+}
+
+.fa-brands{
+  font-size: 24px;
+ color: #FFFFFF;
+}
+
+
+.shadow{
+   box-shadow: 10px 10px 10px rgb(0, 0, 0);
+}
+
+
+
+
+
+.hello{
+  font-size: 72px;
+  background: -webkit-linear-gradient(rgb(189, 55, 55), rgb(27, 201, 207));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+
+.hello-2{
+  font-size: 72px;
+  background: -webkit-linear-gradient(rgb(193, 207, 192), rgb(255, 255, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
